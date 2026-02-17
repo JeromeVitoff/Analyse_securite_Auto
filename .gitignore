@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.parquet
+
+# Streamlit
+.streamlit/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite
+*.db
+
+# Model files
+*.pkl
+*.joblib
+
+# VS Code
+.vscode/
+
